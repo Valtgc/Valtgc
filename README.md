@@ -3,7 +3,7 @@
 <p>
   <h3>🔜Current project:</h3>
     <br>-Python & Yolo Ultralyrics : Computer shortcuts using hand gestures - see my (only) repo</br>
-    <br>-JavaScript : learning programming language</br>
+    <br>-JavaScript : learning</br>
 </p>
 
 
